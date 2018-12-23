@@ -8,5 +8,10 @@
         }
     ],
     "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "king192\\php_xhprof\\": "src/"
+        }
     }
 }
