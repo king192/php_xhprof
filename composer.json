@@ -1,0 +1,12 @@
+{
+    "name": "king192/php_xhprof",
+    "description": "php xhprof",
+    "authors": [
+        {
+            "name": "xhq",
+            "email": "i@iyouths.org"
+        }
+    ],
+    "require": {
+    }
+}
